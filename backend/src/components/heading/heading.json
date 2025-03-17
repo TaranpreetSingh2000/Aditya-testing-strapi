@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_heading_headings",
+  "info": {
+    "displayName": "Heading",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "headingtext": {
+      "type": "string"
+    },
+    "Texttype": {
+      "type": "enumeration",
+      "enum": [
+        "Regular text",
+        "Bold text",
+        "Link text"
+      ]
+    },
+    "description": {
+      "type": "string"
+    },
+    "headingboldtype": {
+      "type": "json"
+    }
+  }
+}
