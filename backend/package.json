@@ -15,6 +15,8 @@
     "@strapi/plugin-cloud": "5.9.0",
     "@strapi/plugin-graphql": "^5.9.0",
     "@strapi/plugin-users-permissions": "5.9.0",
+    "@strapi/provider-upload-aws-s3": "^5.11.2",
+    "@strapi/provider-upload-cloudinary": "^5.11.2",
     "@strapi/strapi": "5.9.0",
     "backend": "file:",
     "better-sqlite3": "11.3.0",
